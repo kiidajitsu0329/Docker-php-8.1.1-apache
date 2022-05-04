@@ -4,12 +4,12 @@ apacheサーバー php-8.1.1 docker開発環境
 Dockerを使用してのPHP実行環境です。
 
 手順
-①Dockerをインストール(https://www.docker.com/products/docker-desktop)
+#### ①Dockerをインストール(https://www.docker.com/products/docker-desktop)
 
-②Zipファイルを解凍する
+#### ②Zipファイルを解凍する
 
-③ターミナルで、ダウンロードしたファイルのディレクトリに移動し、以下のコマンドを実行
-「docker-compose up -d --build」
+#### ③ターミナルで、ダウンロードしたファイルのディレクトリに移動し、以下のコマンドを実行
+#### 「docker-compose up -d --build」
 
 
 
