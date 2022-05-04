@@ -6,10 +6,14 @@ Dockerを使用してのPHP実行環境です。
 手順
 ①Dockerをインストール(https://www.docker.com/products/docker-desktop)
 
-②ターミナルで、ダウンロードしたファイルのディレクトリに移動し、以下のコマンドを実行
+②Zipファイルを解凍する
+
+③ターミナルで、ダウンロードしたファイルのディレクトリに移動し、以下のコマンドを実行
 「docker-compose up -d --build」
 
-③PHPの実行環境の完成
+
+
+PHPの実行環境の完成
 
 ファイル内容
 ・php
